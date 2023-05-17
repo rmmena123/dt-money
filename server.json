@@ -71,6 +71,14 @@
       "type": "outcome",
       "createdAt": "2023-05-16T23:37:19.541Z",
       "id": 9
+    },
+    {
+      "description": "PIX Futebol",
+      "price": 200,
+      "category": "Lazer",
+      "type": "income",
+      "createdAt": "2023-05-17T00:16:37.273Z",
+      "id": 10
     }
   ]
 }
