@@ -55,6 +55,22 @@
       "type": "income",
       "createdAt": "2023-05-16T23:19:55.666Z",
       "id": 7
+    },
+    {
+      "description": "Boletos",
+      "price": 1000,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2023-05-16T23:34:46.724Z",
+      "id": 8
+    },
+    {
+      "description": "Contas",
+      "price": 1000,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2023-05-16T23:37:19.541Z",
+      "id": 9
     }
   ]
 }
